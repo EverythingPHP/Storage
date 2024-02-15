@@ -1,3 +1,3 @@
 <?php
-include 'simpleDB/simpleDB.php';
+include 'deps/simpledb/simpledb/simpleDB.php';
 ?>
